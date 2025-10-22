@@ -1,0 +1,8 @@
+Nombre: Cesar Andres Pelaez 
+Edad: 38
+Programa académico: Tecnologia en Desarrollo de Software
+Semestre actual: 3
+Algo extraño que te gusta hacer: Me gusta hacer graffitis en las puertas de los vecinos
+Color favorito: Rojo
+¿Tienes mascotas? (¿cuáles?): No tengo mascota
+Intereses en el desarrollo de software: Aprender estructura de datos, base de datos y diseño de datos 
